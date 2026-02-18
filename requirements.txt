@@ -1,0 +1,43 @@
+# FastAPI and Web Framework
+fastapi
+uvicorn
+python-multipart
+
+# Vonage SDK
+vonage
+
+# JWT for authentication
+pyjwt
+cryptography
+
+# Note: wave is a built-in Python module, no need to install
+
+# Google Generative AI (Gemini)
+google-genai
+groq
+
+# HTTP requests
+requests
+
+# Environment variables
+python-dotenv
+
+# CORS
+starlette
+
+# Additional utilities
+pydantic
+pydantic-settings
+WebSocket
+
+# Data processing dependencies
+pandas
+openpyxl
+
+
+# Mongo DB
+pymongo
+motor
+bcrypt
+certifi
+
